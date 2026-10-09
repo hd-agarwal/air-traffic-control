@@ -46,8 +46,8 @@ class Planner {
             // successful configuration
             possibilitiesExplored++;
             if (contractsPlaced > maxContractsFitted) {
-                Helper.clearScreen();
-                System.out.println("New config with maxContracts = " + contractsPlaced + " found");
+//                Helper.clearScreen();
+//                System.out.println("New config with maxContracts = " + contractsPlaced + " found");
                 possibilities.clear();
                 List<Ramp> curr = new ArrayList<>();
                 for (Ramp ramp : ramps) {
@@ -55,7 +55,7 @@ class Planner {
                 }
                 possibilities.add(curr);
                 maxContractsFitted = contractsPlaced;
-                Helper.display(curr, true);
+//                Helper.display(curr, true);
 
             }
 //            if (contractsPlaced >= maxContractsFitted) {
