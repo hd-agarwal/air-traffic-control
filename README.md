@@ -17,9 +17,18 @@
 - A contract's start time minutes and end time minutes should both be multiples of 10
 - Goal is to maximise the number of contracts that can be placed within a window of 24 hours
 ------------------------------
+### Steps to run locally
+
+- Clone the repo and navigate to the root folder of the repo `cd air-traffic-control`
+- Compile the main class Planning.java `javac Planning.java`
+- Run the compiled class `java Planning`
+
+----------------
 
 ### Sample run:
 
 ![Sample Output Image](https://github.com/hd-agarwal/air-traffic-control/blob/master/sample_output.png?raw=true)
+
+-----------
 
 ### ***Contributions are welcome!***
