@@ -33,3 +33,5 @@
 - Goal is to maximise the number of contracts that can be placed within a window of 24 hours
 ---------------
 ### ***Contributions are welcome!***
+Don't know where to start?
+Head on to [Open Issues](https://github.com/hd-agarwal/air-traffic-control/issues) for some ideas
