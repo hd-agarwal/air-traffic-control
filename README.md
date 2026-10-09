@@ -21,3 +21,5 @@
 ### Sample run:
 
 ![Sample Output Image](https://github.com/hd-agarwal/air-traffic-control/blob/master/sample_output.png?raw=true)
+
+### ***Contributions are welcome!***
